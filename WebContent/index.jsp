@@ -18,6 +18,8 @@
 <h1>1.브랜치 초기화:특정 지점으로 초기화하는 기능</h1>
 <h1>2.reverse commit:선택한 버전의 이전 버전으로 되돌린 내용을 새롭게 commit</h1>
 <p>불필요한 내용 추가</p>
+
+브렌치 초기화
 </body>
 <script type="text/javascript">
 
