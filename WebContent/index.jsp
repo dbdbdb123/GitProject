@@ -19,4 +19,12 @@
 <h1>2.reverse commit:선택한 버전의 이전 버전으로 되돌린 내용을 새롭게 commit</h1>
 
 </body>
+<script type="text/javascript">
+
+var msg = "${msg}";
+if (msg!=="") {
+	alert(msg);
+}
+
+</script>
 </html>
